@@ -14,4 +14,4 @@
     * [ ] AmSerg Media
     * [ ] Partnership
     * [ ] More gifts for boosters
- 
+    * [ ] ONBORDING ROOOOOOOOOOOOOOOOOOOOOLES
