@@ -7,7 +7,7 @@
     * [x] Master of Events
     * [x] Delete Radio (temporarily)
     * [x] Role Icons
-    * [ ] Eye Update (Partly)
+    * [x] Eye Update (Partly)
   * [ ] AmSerg Games 2.0 part #2
     * [ ] AmSerg Games 2.0 phase #2
     * [ ] Role change
