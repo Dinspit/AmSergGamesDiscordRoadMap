@@ -15,3 +15,4 @@
     * [ ] Partnership
     * [ ] More gifts for boosters
     * [ ] ONBORDING ROOOOOOOOOOOOOOOOOOOOOLES
+    * [ ] Spring's AmSerg Games Avatar
