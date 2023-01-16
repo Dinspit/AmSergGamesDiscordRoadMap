@@ -16,3 +16,6 @@
     * [ ] More gifts for boosters
     * [ ] ONBORDING ROOOOOOOOOOOOOOOOOOOOOLES
     * [ ] Spring's AmSerg Games Avatar
+    * [ ] Delete #╭ㆍ🔔main
+    * [ ] New channel "information"
+    * [ ] Q&A in "information"
