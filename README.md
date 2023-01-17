@@ -11,7 +11,7 @@
   * [ ] AmSerg Games 2.0 part #2
     * [ ] AmSerg Games 2.0 phase #2
     * [ ] Role change
-    * [ ] AmSerg Media
+    * [x] AmSerg Media
     * [ ] Partnership
     * [ ] More gifts for boosters
     * [ ] ONBORDING ROOOOOOOOOOOOOOOOOOOOOLES
