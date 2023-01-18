@@ -19,3 +19,4 @@
     * [ ] Delete #╭ㆍ🔔main
     * [ ] New channel "information"
     * [ ] Q&A in "information"
+    * [ ] common-issues scp sl
