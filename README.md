@@ -15,10 +15,10 @@
     * [ ] AmSerg Media (partners)
     * [ ] Partnership
     * [ ] More gifts for boosters
-    * [ ] ONBORDING ROOOOOOOOOOOOOOOOOOOOOLES
+    * [x] ONBORDING ROOOOOOOOOOOOOOOOOOOOOLES
     * [ ] Spring's AmSerg Games Avatar
-    * [ ] Delete #╭ㆍ🔔main
-    * [ ] New channel "information"
-    * [ ] Q&A in "information"
-    * [ ] common-issues scp sl
-    * [ ] More emojis
+    * [x] Delete #╭ㆍ🔔main
+    * [x] New channel "information"
+    * [x] Q&A in "information"
+    * [x] common-issues scp sl
+    * [x] More emojis
