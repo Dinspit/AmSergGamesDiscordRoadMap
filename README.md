@@ -21,3 +21,4 @@
     * [ ] New channel "information"
     * [ ] Q&A in "information"
     * [ ] common-issues scp sl
+    * [ ] More emojis
