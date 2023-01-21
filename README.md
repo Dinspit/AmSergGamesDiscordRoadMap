@@ -9,7 +9,7 @@
     * [x] Role Icons
     * [x] Eye Update (Partly)
   * [ ] AmSerg Games 2.0 part #2
-    * [ ] AmSerg Games 2.0 phase #2
+    * [x] AmSerg Games 2.0 phase #2
     * [ ] Role change
     * [x] AmSerg Media (roles)
     * [ ] AmSerg Media (partners)
