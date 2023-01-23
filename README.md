@@ -13,7 +13,7 @@
      * [ ] Role change
      * [x] AmSerg Media (roles)
      * [ ] AmSerg Media (partners)
-     * [ ] Partnership
+     * ? Partnership
      * [ ] More gifts for boosters
      * [x] ONBORDING ROOOOOOOOOOOOOOOOOOOOOLES
      * [ ] Spring's AmSerg Games Avatar
