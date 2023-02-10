@@ -26,5 +26,5 @@
      * [ ] Community Update #1
      * [ ] GameDay (MRofES)
      * [ ] AmSerg Media (Full)
-     * [?] Interaction ... ... ...
+
      * [ ] More BOTs
