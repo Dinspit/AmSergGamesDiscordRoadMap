@@ -12,7 +12,6 @@
     * [x] AmSerg Games 2.0 phase #2
      * [ ] Role change
      * [x] AmSerg Media (roles)
-     * [ ] AmSerg Media (partners)
      * ? Partnership
      * [ ] More gifts for boosters
      * [x] ONBORDING ROOOOOOOOOOOOOOOOOOOOOLES
@@ -23,3 +22,9 @@
      * [x] common-issues scp sl
      * [x] More emojis
   * [ ] AmSerg Games 2.0 part #3
+     * [ ] Patch #4
+     * [ ] Community Update #1
+     * [ ] GameDay (MRofES)
+     * [ ] AmSerg Media (Full)
+     * [?] Interaction ... ... ...
+     * [ ] More BOTs
