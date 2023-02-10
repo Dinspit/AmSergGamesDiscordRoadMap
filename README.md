@@ -22,4 +22,4 @@
      * [x] Q&A in "information"
      * [x] common-issues scp sl
      * [x] More emojis
-[ ] AmSerg Games 2.0 part #3
+  * [ ] AmSerg Games 2.0 part #3
