@@ -8,12 +8,12 @@
     * [x] Delete Radio (temporarily)
     * [x] Role Icons
     * [x] Eye Update (Partly)
-  * [ ] AmSerg Games 2.0 part #2
+  * [x] AmSerg Games 2.0 part #2
     * [x] AmSerg Games 2.0 phase #2
-     * [ ] Role change
+     * [x] Role change
      * [x] AmSerg Media (roles)
      * ? Partnership
-     * [ ] More gifts for boosters
+     * [x] More gifts for boosters
      * [x] ONBORDING ROOOOOOOOOOOOOOOOOOOOOLES
      * [ ] Spring's AmSerg Games Avatar
      * [x] Delete #╭ㆍ🔔main
@@ -22,9 +22,9 @@
      * [x] common-issues scp sl
      * [x] More emojis
   * [ ] AmSerg Games 2.0 part #3
-     * [ ] Patch #4
+     * [x] Patch #4
      * [ ] Community Update #1
      * [ ] GameDay (MRofES)
-     * [ ] AmSerg Media (Full)
+     * [x] AmSerg Media (Full)
 
-     * [ ] More BOTs
+ 
