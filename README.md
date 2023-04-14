@@ -21,10 +21,14 @@
      * [x] Q&A in "information"
      * [x] common-issues scp sl
      * [x] More emojis
-  * [ ] AmSerg Games 2.0 part #3
+  * [x] AmSerg Games 2.0 part #3
      * [x] Patch #4
-     * [ ] Community Update #1
+     * [x] Community Update #1
      * [ ] GameDay (MRofES)
      * [x] AmSerg Media (Full)
+  * [x] Moderation updates
+     * [x] Rules
+     * [x] Rules#2
+     * [x] New functions 
 
  
