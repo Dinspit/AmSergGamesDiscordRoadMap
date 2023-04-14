@@ -12,10 +12,10 @@
     * [x] AmSerg Games 2.0 phase #2
      * [x] Role change
      * [x] AmSerg Media (roles)
-     * ? Partnership
+     * [x] Partnership
      * [x] More gifts for boosters
      * [x] ONBORDING ROOOOOOOOOOOOOOOOOOOOOLES
-     * [ ] Spring's AmSerg Games Avatar
+     * [x] Spring's AmSerg Games Avatar
      * [x] Delete #╭ㆍ🔔main
      * [x] New channel "information"
      * [x] Q&A in "information"
