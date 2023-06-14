@@ -26,13 +26,13 @@
      * [x] Community Update #1
      * [ ] GameDay (MRofES)
      * [x] AmSerg Media (Full)
+     * [ ] Private Threads (in progress)
   * [x] Moderation updates
      * [x] Rules
      * [x] Rules#2
      * [x] New functions 
   * [ ] SCP: Comfort Update
      * [ ] Northwood News
-     * [ ] Private Threads (in progress)
      * [ ] More tags for ideas
      * [ ] More Bugs in SCP Bugs channel
      * [ ] Often problems with Servers (in tech.support)
