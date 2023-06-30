@@ -31,10 +31,10 @@
      * [x] Rules
      * [x] Rules#2
      * [x] New functions 
-  * [ ] SCP: Comfort Update
-     * [ ] Northwood News
-     * [ ] More tags for ideas
+  * [x] SCP: Comfort Update
+     * [x] Northwood News
+     * [x] More tags for ideas
      * [ ] More Bugs in SCP Bugs channel
-     * [ ] Often problems with Servers (in tech.support)
-     * [ ] FAQ Update
+     * [x] Often problems with Servers (in tech.support)
+     * [x] FAQ Update
   
