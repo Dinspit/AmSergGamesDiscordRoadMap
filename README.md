@@ -24,9 +24,7 @@
   * [x] AmSerg Games 2.0 part #3
      * [x] Patch #4
      * [x] Community Update #1
-     * [ ] GameDay (MRofES)
      * [x] AmSerg Media (Full)
-     * [ ] Private Threads (in progress)
   * [x] Moderation updates
      * [x] Rules
      * [x] Rules#2
@@ -34,7 +32,18 @@
   * [x] SCP: Comfort Update
      * [x] Northwood News
      * [x] More tags for ideas
-     * [ ] More Bugs in SCP Bugs channel
+     * [x] More Bugs in SCP Bugs channel
      * [x] Often problems with Servers (in tech.support)
      * [x] FAQ Update
+  * [ ] More and More Updates
+     * [ ] Redisign channel
+     * [ ] Redesign role colors
+     * [ ] Redesign role icons
+     * [ ] Discord Manager
+     * [ ] Information redesign (and desc.)
+     * [ ] Public Threads for all
+     * [ ] Rules update
+     * [ ] Level return
+     * [ ] Forums update
+     * [ ] Channels update
   
