@@ -36,14 +36,13 @@
      * [x] Often problems with Servers (in tech.support)
      * [x] FAQ Update
   * [ ] More and More Updates
-     * [ ] Redisign channel
+     * [ ] Upd pins channels
      * [ ] Redesign role colors
      * [ ] Redesign role icons
      * [ ] Discord Manager
      * [ ] Information redesign (and desc.)
      * [ ] Public Threads for all
      * [ ] Rules update
-     * [ ] Level return
      * [ ] Forums update
-     * [ ] Channels update
+     * [ ] Community update
   
